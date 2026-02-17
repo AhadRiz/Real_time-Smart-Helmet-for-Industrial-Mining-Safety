@@ -3,4 +3,4 @@ The system continuously monitors environmental and physiological conditions and 
 The alert sequence includes buzzer activation, followed by worker confirmation via pushbutton, and activates the vibration motor and emergency SOS transmission via WiFi to a command center if no response is detected within 10 seconds.
 The system demonstrates a complete IoT-based safety solution using sensor integration, FreeRTOS multitasking, WiFi communication, and emergency decision-making logic.
 
---> Complete project is available at this link: 
+--> Complete project is available at this link: https://drive.google.com/drive/folders/1RvOZqGrzwrjP4UElSiofvK1pVyz61Vj-?usp=sharing
